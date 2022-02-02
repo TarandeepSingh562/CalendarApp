@@ -7,7 +7,7 @@ After the command is ran in terminal, the homescreen should prompt and show this
   
 Here are proper steps to use the program efficiently otherwise errors will prompt, and you will need to follow them instead of these steps. 
   
-1) Add a Calendar( or multiple calendars) 
+**1) Add a Calendar**( or multiple calendars) 
 Type 'a' into the terminal and you should be granted access to create your own calendar.
 ![image](https://user-images.githubusercontent.com/85138366/152254529-0109562c-c780-4fe4-a154-5c6f4c1518e2.png)
 
