@@ -20,7 +20,7 @@ Type 'e' into the terminal to add event, or multiple events. This will allow you
 ![image](https://user-images.githubusercontent.com/85138366/152255463-699c99d3-c0a3-4d6c-83d1-d1ae34b4dc98.png)
   
 **3) Monthly View**
-  Type 'm' for monthly view of a Calendar of your choice. Enter a valid year and date -- which will then prompt you to a calendar like below. (Through command prompt the format may be a little messed up).
+  Type 'm' for monthly view of a Calendar of your choice. Enter a valid year and date -- which will then prompt you to a calendar like below. (Through command prompt the format may be a little messed up. This will be fixed when I create a GUI in the future).
   ![image](https://user-images.githubusercontent.com/85138366/152256432-6bdcbcb8-0a4b-414f-911f-7553fde51a3e.png)
 
 
