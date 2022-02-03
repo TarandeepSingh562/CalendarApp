@@ -52,7 +52,7 @@ Type 'r' to remove events. Then select the calendar > event to remove event.
 ![image](https://user-images.githubusercontent.com/85138366/152258369-b6db706e-ea8b-4447-91bd-85e34aebae43.png)
 
   
-8) Remove Calendar(s)
+**8) Remove Calendar(s)**
 Type 'd' to remove a calendar, or multiple calendars. 
   
 ![image](https://user-images.githubusercontent.com/85138366/152258579-fecdeb4c-cb94-42dd-9bf4-f01a256dc499.png)
