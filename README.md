@@ -29,6 +29,7 @@ Type 't' to change timezones. This will prompt you to put in a VALID timezone. F
 ![image](https://user-images.githubusercontent.com/85138366/152256918-25f0b8cc-e18a-4538-924e-4c0c621fe1ac.png)
   
 For example, Calendar1's event up there has been changed to GMT time.
+  
 ![image](https://user-images.githubusercontent.com/85138366/152257022-38a6afad-2716-4fef-b203-4273f6e8000f.png)
   
   
