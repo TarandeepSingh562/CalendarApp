@@ -36,10 +36,12 @@ For example, Calendar1's event up there has been changed to GMT time.
   
 **5) Update and View Calendar List**
 Type 'v' to update and view your active calendars. This allows you to see your up to date calendars that are active. 
-![image](https://user-images.githubusercontent.com/85138366/152257168-136d5419-3c08-4b0e-b2f9-17dba2161acf.png)
+
+  ![image](https://user-images.githubusercontent.com/85138366/152257168-136d5419-3c08-4b0e-b2f9-17dba2161acf.png)
   
 **6) Update and View Events**
 Type 'u' to update and view your active events. This will allow you to view all events in individual calendars you have created. 
+
 ![image](https://user-images.githubusercontent.com/85138366/152257265-83ea58cc-0e08-40d7-ae98-f45015b69a7f.png)
   
 **7) Remove Events**
