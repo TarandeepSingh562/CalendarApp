@@ -9,6 +9,7 @@ Here are proper steps to use the program efficiently otherwise errors will promp
   
 **1) Add a Calendar( or multiple calendars)** 
 Type 'a' into the terminal and you should be granted access to create your own calendar. You could also set each individual calendar to either private or public. Private will not allow you to share the calendar unless you switch back to public.
+  
 ![image](https://user-images.githubusercontent.com/85138366/152254529-0109562c-c780-4fe4-a154-5c6f4c1518e2.png)
 ![image](https://user-images.githubusercontent.com/85138366/152254845-9eb9efca-4019-4882-af9a-dfd3bd4ca474.png)
 
@@ -21,7 +22,8 @@ Type 'e' into the terminal to add event, or multiple events. This will allow you
   
 **3) Monthly View**
 Type 'm' for monthly view of a Calendar of your choice. Enter a valid year and date -- which will then prompt you to a calendar like below. (Through command prompt the format may be a little messed up. This will be fixed when I create a GUI in the future).
-  ![image](https://user-images.githubusercontent.com/85138366/152256432-6bdcbcb8-0a4b-414f-911f-7553fde51a3e.png)
+
+![image](https://user-images.githubusercontent.com/85138366/152256432-6bdcbcb8-0a4b-414f-911f-7553fde51a3e.png)
   
   
 **4) Change Timezones** 
@@ -37,15 +39,28 @@ For example, Calendar1's event up there has been changed to GMT time.
 **5) Update and View Calendar List**
 Type 'v' to update and view your active calendars. This allows you to see your up to date calendars that are active. 
 
-  ![image](https://user-images.githubusercontent.com/85138366/152257168-136d5419-3c08-4b0e-b2f9-17dba2161acf.png)
+![image](https://user-images.githubusercontent.com/85138366/152257168-136d5419-3c08-4b0e-b2f9-17dba2161acf.png)
   
 **6) Update and View Events**
 Type 'u' to update and view your active events. This will allow you to view all events in individual calendars you have created. 
 
 ![image](https://user-images.githubusercontent.com/85138366/152257265-83ea58cc-0e08-40d7-ae98-f45015b69a7f.png)
   
-**7) Remove Events**
-Type 
+**7) Remove Event(s)**
+Type 'r' to remove events. Then select the calendar > event to remove event.
+
+![image](https://user-images.githubusercontent.com/85138366/152258369-b6db706e-ea8b-4447-91bd-85e34aebae43.png)
+
+  
+8) Remove Calendar(s)
+Type 'd' to remove a calendar, or multiple calendars. 
+  
+![image](https://user-images.githubusercontent.com/85138366/152258579-fecdeb4c-cb94-42dd-9bf4-f01a256dc499.png)
+  
+![image](https://user-images.githubusercontent.com/85138366/152258597-bd35b65e-dd13-4513-81bb-94218f4112d3.png)
+
+
+
 
 
   
