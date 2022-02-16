@@ -33,19 +33,4 @@ public class Event {
 
     }
 
-    void createTimer(){
-
-    }
-
-    void removeTimer(){
-
-    }
-
-    void searchEvent(){
-
-    }
-
-    void shareEvent(){
-
-    }
 }
